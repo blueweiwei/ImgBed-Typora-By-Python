@@ -11,4 +11,4 @@
 
 ![image-20210224195224060](./img/image-20210224195224060.png)
 
-下载地址：[点击下载](https://github.com/blueweiwei/ImgBed-Typora-By-Python/main.py)
+下载地址：[点击下载](https://github.com/blueweiwei/ImgBed-Typora-By-Python/blob/main/main.py)
